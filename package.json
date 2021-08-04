@@ -1,0 +1,22 @@
+{
+  "name": "shipper",
+  "version": "0.1.0",
+  "description": "Install packages on the fly with less footprint on your drive with Shipper",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ship-pkg/shipper.git"
+  },
+  "keywords": [
+    "package-manager",
+    "modules"
+  ],
+  "author": "Imagineee",
+  "license": "BSD-3-Clause",
+  "bugs": {
+    "url": "https://github.com/ship-pkg/shipper/issues"
+  },
+  "homepage": "https://github.com/ship-pkg/shipper#readme"
+}
